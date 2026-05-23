@@ -1,0 +1,8 @@
+trait1	trait2	trait1_sumstats	trait2_sumstats	analysis_group
+ERPBC	DEP	data/harmonized/ERPBC.sumstats.gz	data/harmonized/DEP.sumstats.gz	breast_cancer_psychiatric
+ERPBC	SCZ	data/harmonized/ERPBC.sumstats.gz	data/harmonized/SCZ.sumstats.gz	breast_cancer_psychiatric
+ERPBC	BIP	data/harmonized/ERPBC.sumstats.gz	data/harmonized/BIP.sumstats.gz	breast_cancer_psychiatric
+ERNBC	DEP	data/harmonized/ERNBC.sumstats.gz	data/harmonized/DEP.sumstats.gz	breast_cancer_psychiatric
+ERNBC	SCZ	data/harmonized/ERNBC.sumstats.gz	data/harmonized/SCZ.sumstats.gz	breast_cancer_psychiatric
+ERNBC	BIP	data/harmonized/ERNBC.sumstats.gz	data/harmonized/BIP.sumstats.gz	breast_cancer_psychiatric
+

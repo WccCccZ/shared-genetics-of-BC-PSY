@@ -1,0 +1,13 @@
+Software	Version used	Purpose
+LDSC	v1.0.1	SNP heritability and genome-wide genetic correlation
+MiXeR	v1.3	Polygenicity, discoverability, and genetic overlap
+LAVA	v0.1.0	Local genetic correlation
+lhcMR	v0.0.0.9000	Genetically inferred directional association analysis
+PLACO	v0.2.0	Cross-trait pleiotropic SNP analysis
+FUMA	v1.5.4	Functional mapping and annotation
+COLOC	v5.2.1	Bayesian colocalization
+MAGMA	v1.08	Gene and gene-set analysis
+SMR	v1.31	Protein-level prioritization
+R	v4.3	R-based analysis environment
+Python	2.7/3.x	LDSC and MiXeR workflows
+
