@@ -1,0 +1,19 @@
+Variable	Description	Example
+LDSC_DIR	Path to LDSC installation	/path/to/ldsc
+HM3_SNPLIST	HapMap3 SNP list used by LDSC munge_sumstats.py	/path/to/w_hm3.snplist
+EUR_LD_CHR	European LD score reference directory	/path/to/eur_w_ld_chr/
+MIXER_SIF	Singularity image containing MiXeR	/path/to/mixer.sif
+MIXER_BIM	1000 Genomes EUR BIM file template with @ chromosome placeholder	/path/to/1000G.EUR.QC.@.bim
+MIXER_LD	1000 Genomes EUR LD file template with @ chromosome placeholder	/path/to/1000G.EUR.QC.@.run4.ld
+MIXER_EXTRACT	Pruned SNP list for MiXeR	/path/to/1000G.EUR.QC.pruned.snps
+LAVA_REF	LAVA EUR reference prefix	/path/to/LAVA/ref_data/ref-genome/g1000_eur
+LAVA_BLOCKS	LAVA LD block file	/path/to/LAVA/ref_data/ld-block/LAVA_blocks.txt
+LCV_DIR	LCV source directory containing RunLCV.R	/path/to/LCV
+MAGMA	Path to MAGMA executable	/path/to/magma
+MAGMA_REF_PREFIX	PLINK binary reference prefix for MAGMA	/path/to/reference/g1000_eur
+MAGMA_GENE_LOC	Gene location file	/path/to/NCBI37.3.gene.loc
+MAGMA_SET_FILE	Gene-set annotation file for MAGMA	/path/to/gene_set_file.gmt
+SMR	Path to SMR executable	/path/to/smr
+SMR_REF_PREFIX	PLINK binary reference prefix for SMR	/path/to/reference/ref_data
+PLACO_SOURCE	Path to PLACO R source file	/path/to/PLACO_v0.2.0.R
+
